@@ -35,3 +35,10 @@ This project used to be available at http://archidune.com/ but is now only acces
 * [APO USB Autorun Help Page](http://www.archidune.com/usb_help)
 * [APO USB Autorun Download Page](https://web.archive.org/web/20130214013511/http://www.archidune.com/index.php?id=3)
 * [APO USB Autorun v1.6.2.0 (latest version) Download Link](https://web.archive.org/web/20141017143748/http://www.archidune.com/index.php?id=3&d=apo/usb_autorun/setup.exe)
+
+
+## Other Resources
+APO USB Autorun is a computer-based solution.
+For a drive-based solution, U3 Launchpad software on some Sandisk and other USB drives would enable the USB drive to appear as both a CD drive and a USB drive, with the CD drive portion launching the autorun.
+* [Reinstall or Restore U3 Launchpad Software](https://techjourney.net/reinstall-or-restore-u3-launchpad-software-into-usb-flash-smart-drive/)
+* [U3 Launchpad Installer (via archive.org)](https://web.archive.org/web/20151003201509/u3.sandisk.com/download/apps/LPInstaller.exe)
