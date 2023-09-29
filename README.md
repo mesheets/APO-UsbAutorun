@@ -42,3 +42,13 @@ APO USB Autorun is a computer-based solution.
 For a drive-based solution, U3 Launchpad software on some Sandisk and other USB drives would enable the USB drive to appear as both a CD drive and a USB drive, with the CD drive portion launching the autorun.
 * [Reinstall or Restore U3 Launchpad Software](https://techjourney.net/reinstall-or-restore-u3-launchpad-software-into-usb-flash-smart-drive/)
 * [U3 Launchpad Installer (via archive.org)](https://web.archive.org/web/20151003201509/u3.sandisk.com/download/apps/LPInstaller.exe)
+
+Discontinued Software
+* [ToroSoft AutoRun USB (via archive.org)](https://web.archive.org/web/20080213174749/http://www.torosoftware.com/autorun.asp)
+* [USB-Secure 2](https://web.archive.org/web/20080204112317/http://www.dw-edv.de/usbsecure2/)
+
+PortableApps.com Forum Posts
+* [Autorun Portable](https://portableapps.com/node/215)
+  + [InMatrix Mobilization for USB Flash Drives and CD/DVD-ROM Discs](https://www.inmatrix.com/zplayer/highlights/mobile.shtml)
+  + [Autoplay Handler](https://portableapps.com/comment/787#comment-787)
+* [Autorun USB](https://portableapps.com/node/216)
